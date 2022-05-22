@@ -17,4 +17,4 @@ Usage: Koyomi [options]
 
 # Fun Facts
 * What GitHub Copilot suggests (Wow that's smart enough): *The name of this project is derived from the Japanese word for "calendar".*
-* What it really is: **The name of this project is derived from the male protagonist of the Japanese anime series *Monogatari Series(物语系列)*: *Araragi Koyomi(阿良良木历)* **
+* What it really is: **The name of this project is derived from the male protagonist of the Japanese anime series *Monogatari Series(物语系列)*: *Araragi Koyomi(阿良良木历)***
