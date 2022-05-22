@@ -1,5 +1,5 @@
 # koyomi
-A toolset for designing programming language grammars
+A toolset for designing programming language grammars in case you are plaguing by writing and analyzing grammars in pure BNF
 
 # Usage
 It is planned to add various useful algorithms such as dead production removal, left factoring, and left recursion elimination. But for now only the conversion from EBNF to BNF is implemented
